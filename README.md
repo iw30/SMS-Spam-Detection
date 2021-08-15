@@ -4,7 +4,7 @@ In this project, I will build a predictive model that will accurately detect whi
 
 # Dataset
 
-The dataset is obtained from kaggle in this [link](https://www.kaggle.com/uciml/sms-spam-collection-dataset?select=spam.csv)
+The dataset is obtained from kaggle in this [link](https://www.kaggle.com/uciml/sms-spam-collection-dataset?select=spam.csv).
 
 The dataset contains 2 columns: the first column tells whether the text message is ham or spam and the second column containing the text message. 
 
