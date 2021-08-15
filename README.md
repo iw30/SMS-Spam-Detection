@@ -1,6 +1,6 @@
 # Project Description
 
-In this project, I will build a predictive model that will accurately detech which texts are spam using Phyton. 
+In this project, I will build a predictive model that will accurately detech which texts are spam using Phyton. The accuracy of the model reaches up to 95.4%.
 
 # Dataset
 
